@@ -1,0 +1,6 @@
+2023-04-17T17:16:13+00:00 CRITICAL Declaration of ElementorPro\Core\Utils\Collection::unique() must be compatible with Elementor\Core\Utils\Collection::unique($keys = null) in C:\xampp\htdocs\onlinesurenow\wp-content\plugins\elementor-pro\core\utils\collection.php on line 76
+
+2023-04-17T17:16:59+00:00 CRITICAL Declaration of ElementorPro\Core\Utils\Collection::unique() must be compatible with Elementor\Core\Utils\Collection::unique($keys = null) in C:\xampp\htdocs\onlinesurenow\wp-content\plugins\elementor-pro\core\utils\collection.php on line 76
+
+2023-04-17T17:22:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\onlinesurenow\wp-includes\Requests\src\Transport\Curl.php on line 510
+

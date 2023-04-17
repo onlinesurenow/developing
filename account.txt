@@ -1,0 +1,17 @@
+database:	dbonlinesurenow
+user:		root
+pass:		admin
+-----------------
+Online Sure Now
+http://localhost/onlinesurenow/wp-admin/
+user:	onlinesurenow
+pass:	#te2QPItKxG60Wa2rB
+new pass:	!HOo*7gIKD!9o9iZj&yY1Y0V
+-------------------
+Gmail:
+
+email:	onlinesurenow2022@gmail.com
+pass:	@2022_Osn
+------------------
+
+https://wordpress.org/plugins/dokan-lite/
